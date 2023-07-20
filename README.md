@@ -1,6 +1,6 @@
 📝 **Text Wizzard - A Magical Text Manipulation Website** 🧙‍♂️
 
-![Text Wizzard Logo](link_to_logo.png)
+
 
 ## 🌟 Introduction
 
