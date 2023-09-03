@@ -1,10 +1,9 @@
 📝 **Text Wizzard - A Magical Text Manipulation Website** 🧙‍♂️
 
-### 🌟 Live preview: Text Wizzard
-
+### 🌟 Live Preview  [Text Wizzard](https://lochansaroy02.github.io/text-wizard/)
 ## 🌟 Introduction
 
-Welcome to Text Wizzard, a magical website built using React framework that allows you to unleash the power of text manipulation and transform your writing into captivating creations! 🪄🌌
+Welcome to Text Wizzard, a magical website built using the React framework that allows you to unleash the power of text manipulation and transform your writing into captivating creations! 🪄🌌
 
 ## 🎯 Project Description
 
