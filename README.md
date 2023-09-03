@@ -1,6 +1,6 @@
 📝 **Text Wizzard - A Magical Text Manipulation Website** 🧙‍♂️
 
-### 🌟 Live Preview  [Text Wizzard](https://lochansaroy02.github.io/text-wizard/) {:target="_blank" rel="noopener noreferrer"}
+### 🌟 Live Preview  [Text Wizzard](https://lochansaroy02.github.io/text-wizard/){:target="_blank" rel="noopener noreferrer"}
 ## 🌟 Introduction
 
 Welcome to Text Wizzard, a magical website built using the React framework that allows you to unleash the power of text manipulation and transform your writing into captivating creations! 🪄🌌
@@ -17,7 +17,7 @@ Text Wizzard is a user-friendly and interactive web application that empowers us
 
 🔠 **Letter Case Magic**: Transform your text into uppercase, lowercase, title case, and even SpongeBob Mocking case for a fun twist.
 
-🔢 **Number Wizardry**: Play with numbers by converting them to words, roman numerals, or even binary code.
+🔢 **Number Wizardry**: Play with numbers by converting them to words, Roman numerals, or even binary code.
 
 🎨 **Colorful Language**: Add a touch of magic to your text with colorful gradients and beautiful text shadows.
 
